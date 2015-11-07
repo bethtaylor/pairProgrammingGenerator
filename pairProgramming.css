@@ -1,0 +1,28 @@
+h1{
+	color: MidnightBlue;
+	text-align: center; 
+	font-family: cursive;
+	font-size: 32px;
+}
+
+table thead td{
+	color: MidnightBlue;
+	padding: 20px;
+	text-align: center;
+	font-size: 24px;
+	font-family: cursive;
+}
+table tbody td{
+	color: SteelBlue;
+	background-color: LightGoldenRodYellow;
+	border-collapse: collapse;
+}
+.centered{
+	margin-left: auto;
+	margin-right: auto;
+}
+body{
+	background-image: url(cloud.jpg);
+	background-size: 1024px 1024px;
+
+}
